@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
 
-        <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t1.15752-9/293093556_1268651587242658_8790365090316806294_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dc6uJESMC6kAX9v2Hus&tn=dsxgr-9MrUbz2ECT&_nc_ht=scontent.fcrk1-1.fna&oh=03_AVJBnAqcqw7NryIYxFoMJUimuAfxrcmJQFpB_mKIMbRFtA&oe=6324AF92" name="My Picture" alt="mypic.png" width="350"/>
+        <image src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t1.15752-9/293093556_1268651587242658_8790365090316806294_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dc6uJESMC6kAX9v2Hus&tn=dsxgr-9MrUbz2ECT&_nc_ht=scontent.fcrk1-1.fna&oh=03_AVJBnAqcqw7NryIYxFoMJUimuAfxrcmJQFpB_mKIMbRFtA&oe=6324AF92" name="My Picture" alt="mypic.png" width="350"/>
 
         <h1 className={styles.title}>
           Aubrey Miles F. Cruz
