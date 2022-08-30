@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         
-        <image priority src="https://github.com/Milez42/miles.github.io/blob/main/pages/me.png?raw=true" className={styles.borderCircle}
+        <image priority src="/me.png" className={styles.borderCircle}
               height={144}
               width={144}
               alt="MyRefPic"
