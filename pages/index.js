@@ -12,12 +12,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        
+        <image src="/me.png" width="150"/>
 
         <h1 className={styles.title}>
           Aubrey Miles F. Cruz
         </h1>
-
-        <image src="/me.png" width="150"/>
 
         <div className={styles.grid}>
           <p>     I am Aubrey Miles F. Cruz from Queen Victoria Heights, San Agustin Norte, Arayat, Pampanga. I am 20 years old this year but I can&apos;t grasp adulthood quite well yet. I like any seafood, Pangat and Salmon at best and I like drinking coffee without sugar. 
