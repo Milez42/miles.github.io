@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
 
-        <Image src="me.png" width="350"/>
+        <Image src="/me.png" width="350"/>
 
         <h1 className={styles.title}>
           Aubrey Miles F. Cruz
