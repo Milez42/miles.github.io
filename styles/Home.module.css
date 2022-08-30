@@ -108,6 +108,9 @@
   margin-left: 0.5rem;
 }
 
+.pic {
+  width: 350px;
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
