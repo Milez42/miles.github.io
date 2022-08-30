@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
 
-        <img src=url("https://scontent.fcrk4-1.fna.fbcdn.net/v/t1.15752-9/293093556_1268651587242658_8790365090316806294_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHF0kfJnmYfG7cTjEY4Jy9Ol1Vv_FqxCaiXVW_8WrEJqH7B99TL8wqQbydWrPRbskKOfzwnz-3644ei6rPVLd_D&_nc_ohc=tBFYNQikruUAX8yCMZ2&tn=dsxgr-9MrUbz2ECT&_nc_ht=scontent.fcrk4-1.fna&oh=03_AVIblXqEl6RvmarpcfeViOYQropzZgw_2a4QmXd-U4_xQQ&oe=63348192") width="350"/>
+        <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t1.15752-9/293093556_1268651587242658_8790365090316806294_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHF0kfJnmYfG7cTjEY4Jy9Ol1Vv_FqxCaiXVW_8WrEJqH7B99TL8wqQbydWrPRbskKOfzwnz-3644ei6rPVLd_D&_nc_ohc=tBFYNQikruUAX8yCMZ2&tn=dsxgr-9MrUbz2ECT&_nc_ht=scontent.fcrk4-1.fna&oh=03_AVIblXqEl6RvmarpcfeViOYQropzZgw_2a4QmXd-U4_xQQ&oe=63348192" width="350"/>
 
         <h1 className={styles.title}>
           Aubrey Miles F. Cruz
