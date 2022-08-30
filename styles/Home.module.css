@@ -39,6 +39,10 @@
   text-decoration: underline;
 }
 
+.borderCircle {
+  border-radius: 9999px;
+}
+
 .title {
   margin: 0;
   line-height: 1.15;
