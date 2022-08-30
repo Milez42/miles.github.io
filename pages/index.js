@@ -13,7 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         
-        <image src="https://github.com/Milez42/miles.github.io/blob/main/pages/me.png?raw=true" width="150"/>
+        <image priority src="https://github.com/Milez42/miles.github.io/blob/main/pages/me.png?raw=true" className={styles.borderCircle}
+              height={144}
+              width={144}
+              alt="MyRefPic"
+            />
 
         <h1 className={styles.title}>
           Aubrey Miles F. Cruz
