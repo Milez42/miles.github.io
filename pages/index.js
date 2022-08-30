@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         
-        <image priority src="/me.png" className={styles.borderCircle}
+        <image src="/me.png" className={styles.borderCircle}
               height={144}
               width={144}
               alt="MyRefPic"
